@@ -1,4 +1,4 @@
-#Dipeshkumar Patel
+
 
 def representation_of_game(matrix, num, value):
     row1, row2, row3 = matrix[0], matrix[1], matrix[2]
